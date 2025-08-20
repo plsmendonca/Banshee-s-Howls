@@ -4,3 +4,5 @@
 
  Game developed in Construct 2 as a Projeto Integrador in 2021.
  Developed in a group.
+
+ Você pode jogar aqui/You can play here: [Banshee's Howls]([https://seu-usuario.github.io/seu-repositorio/](https://plsmendonca.github.io/Banshee-s-Howls))
